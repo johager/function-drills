@@ -466,10 +466,10 @@ function pond() {
 let globalScope = ['duck']
 
 //This array should contain the variable names (as strings) accessible in the bathroom function.
-let bathroomScope = ['rubberDuck', 'sailorDuck']
+let bathroomScope = ['duck', 'rubberDuck', 'sailorDuck']
 
 //This array should contain the variable names (as strings) accessible in the bathtub function.
-let bathtubScope = ['sailorDuck']
+let bathtubScope = ['duck', 'sailorDuck']
 
 //This array should contain the variable names (as strings) accessible in the pond function.
-let pondScope = ['realDuck']
+let pondScope = ['duck','realDuck']
